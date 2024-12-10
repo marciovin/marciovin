@@ -3,7 +3,7 @@
     <summary><h1 style="display: inline-block">Hello World</h1></summary>
 </div>
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Prisma to frontend development using nextJS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
+<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Prisma to frontend development using nextJS and react, I'm passionate about discovering new things and using them to create high-quality solutions. Today, I'm learning to be a full stack developer, but I'm already specialized in web development.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=marciovin&theme=radical&mode=weekly" />
