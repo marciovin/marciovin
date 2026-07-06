@@ -1,75 +1,69 @@
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World</h1></summary>
-</div>
+<h1 align="center">Hi, I'm Márcio Vinicius 👋</h1>
+<h3 align="center">Frontend Developer | React & Next.js</h3>
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Prisma to frontend development using nextJS and react, I'm passionate about discovering new things and using them to create high-quality solutions. Today, I'm learning to be a full stack developer, but I'm already specialized in web development.</p>&nbsp;
-
-<div  align="center" style="margin-bottom:100px">
-  
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
- </div>
- 
- &nbsp;
- &nbsp;
-
-
-## My Skills
-
-#### Main Stack:
-
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
- ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-
-
-
- ## Skills framework:
- ![nextjs](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)&nbsp;
- ![expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)&nbsp;
- ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-
-<p align="left">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+<p align="center">
+Building fast, accessible web interfaces with React, Next.js, and TypeScript.<br>
+Currently based in Brazil — open to remote roles and relocation to Portugal 🇵🇹
 </p>
 
-#### Studying in this moment:
+<p align="center">
+  <a href="https://www.linkedin.com/in/[SEU-LINKEDIN]/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:contato.marcioviniciusfilho760@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <!-- Se tiver portfólio, descomenta a linha abaixo e coloca o link -->
+  <!-- <a href="https://[SEU-PORTFOLIO].com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a> -->
+</p>
 
-![GCP](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)&nbsp;
-![Kubernetes](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![fastfy](https://img.shields.io/badge/fastify-202020?style=for-the-badge&logo=fastify&logoColor=white)&nbsp;
-![fastfy](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
+---
 
-#### Databases:
+### 🚀 About Me
 
-![MongoDB](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;
-![Postgresql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+I'm a Frontend Developer passionate about building clean, performant user interfaces. My main focus is the React ecosystem — React, Next.js, and TypeScript — with growing experience on the backend using Node.js and Fastify.
 
+I'm currently looking for opportunities in **Portugal** or **remote roles** with international teams.
 
-#### Workstation Tools:
+### 🛠️ Tech Stack
 
- ![VScode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
-  ![figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
-  
+**Frontend**
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</p>
 
-&nbsp;
-&nbsp;
+**Backend & Database**
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+<img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
+</p>
 
+**Tools**
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+</p>
 
-<div id="user-content-toc">
-  <ul align="left">
-    <summary><h1 style="display: inline-block">My training :</h1></summary>
-   <p>@Rocketseat</p>
-</div>
+### 📌 Featured Projects
 
+> Substitua pelos seus 2-3 melhores repositórios (o formato do GitHub puxa automaticamente a descrição e linguagem do repo quando você usa "Pin" no perfil, então isso aqui é só um resumo textual complementar)
 
-## Contacts:
+- **[project-name](https://github.com/marciovin/project-name)** — short description of what it does and the problem it solves.
+- **[project-name](https://github.com/marciovin/project-name)** — short description of what it does and the problem it solves.
 
-<div> 
-<a href = "mailto:contato.marcioviniciusfilho760@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>&nbsp;&nbsp;
- 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+### 📈 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=marciovin&show_icons=true&theme=default" alt="marciovin's GitHub stats" />
+</p>
+
+### 📫 Get in Touch
+
+Feel free to reach out about opportunities, collaboration, or just to say hi.
+
+- 📧 contato.marcioviniciusfilho760@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/[SEU-LINKEDIN]/)
