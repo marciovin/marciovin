@@ -52,7 +52,11 @@ I'm currently looking for opportunities in **Portugal** or **remote roles** with
 
 > Substitua pelos seus 2-3 melhores repositórios (o formato do GitHub puxa automaticamente a descrição e linguagem do repo quando você usa "Pin" no perfil, então isso aqui é só um resumo textual complementar)
 
-- **[MY PORTFOLIO]([https://github.com/marciovin/project-name](https://l.instagram.com/?u=https%3A%2F%2Fportifolio-seven-phi-14.vercel.app%2F%3Futm_source%3Dig%26utm_medium%3Dsocial%26utm_content%3Dlink_in_bio%26fbclid%3DPAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQPOTM2NjE5NzQzMzkyNDU5AAGn1k9oSJgOV9t_zZ6Qi7N8XbYk09KZ0Qsf8dZZyImi7GXUrgeZDzZyodp8RGg_aem_VTV1LnfNOiH8rJjA9GnVBA&e=AUCo54ANQao2a61uovL3b9ujEPu47SjWsg1BF4YoJygub9DKciOIwQVx8oRV5Atkcq485wxAwiWApMrscfzHdE_bE7keXKyNysiaT3wiEC1wpUNFq-hsrXCOAKcyxLmmP9KhBQQ))** — A little more about me.
+- [MY PORTFOLIO]([https://github.com/marciovin/project-name](https://l.instagram.com/?u=https%3A%2F%2Fportifolio-seven-phi-14.vercel.app%2F%3Futm_source%3Dig%26utm_medium%3Dsocial%26utm_content%3Dlink_in_bio%26fbclid%3DPAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQPOTM2NjE5NzQzMzkyNDU5AAGn1k9oSJgOV9t_zZ6Qi7N8XbYk09KZ0Qsf8dZZyImi7GXUrgeZDzZyodp8RGg_aem_VTV1LnfNOiH8rJjA9GnVBA&e=AUCo54ANQao2a61uovL3b9ujEPu47SjWsg1BF4YoJygub9DKciOIwQVx8oRV5Atkcq485wxAwiWApMrscfzHdE_bE7keXKyNysiaT3wiEC1wpUNFq-hsrXCOAKcyxLmmP9KhBQQ)) — A little more about me.
+
+- [project-name]([https://github.com/marciovin/project-name](https://github.com/marciovin/weather-app))
+
+- [project-name]([https://github.com/marciovin/project-name](https://github.com/marciovin/convert-template))
 <!-- - **[project-name](https://github.com/marciovin/project-name)** — short description of what it does and the problem it solves. -->
 
 
