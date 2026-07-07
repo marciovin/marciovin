@@ -67,3 +67,5 @@ Feel free to reach out about opportunities, collaboration, or just to say hi.
 
 - 📧 contato.marcinhovncs728@gmail.com
 <!-- - 💼 [MY LinkedIn](https://www.linkedin.com/in/[SEU-LINKEDIN]/) -->
+
+![snake animation](https://raw.githubusercontent.com/marciovin/marciovin/output/github-contribution-grid-snake.svg)
