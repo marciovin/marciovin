@@ -50,7 +50,7 @@ I'm currently looking for opportunities in **Portugal** or **remote roles** with
 
 ### 📌 Featured Projects
 
-> Substitua pelos seus 2-3 melhores repositórios (o formato do GitHub puxa automaticamente a descrição e linguagem do repo quando você usa "Pin" no perfil, então isso aqui é só um resumo textual complementar)
+<!-- > Substitua pelos seus 2-3 melhores repositórios (o formato do GitHub puxa automaticamente a descrição e linguagem do repo quando você usa "Pin" no perfil, então isso aqui é só um resumo textual complementar) -->
 
 - [My Portfolio](https://portifolio-seven-phi-14.vercel.app/) — a bit more about me and my work.
 - [WeatherNow](https://github.com/marciovin/weather-app) — real-time weather app using the OpenWeather API.
